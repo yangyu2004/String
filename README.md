@@ -13,8 +13,8 @@ String：本身其实是一个类
   String s3=new String("imooc"); 创建一个字符串对象imooc，名为s3
   
 - ## String对象的常用方法
-  
-  ![](file://C:\Users\25044\AppData\Roaming\marktext\images\2025-03-27-15-55-34-image.png?msec=1743127310240)
+
+  ![](C:\Users\25044\AppData\Roaming\marktext\images\2025-03-27-15-55-34-image.png)
   
 - ## ==和equals方法的区别
   
