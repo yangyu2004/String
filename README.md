@@ -14,8 +14,9 @@ String：本身其实是一个类
   
 - ## String对象的常用方法
 
-  ![](C:\Users\25044\AppData\Roaming\marktext\images\2025-03-27-15-55-34-image.png)
-  
+![屏幕截图 2025-03-27 155530](https://github.com/user-attachments/assets/f40849b8-8dd9-4d9c-ba01-daa0c8815702)
+
+
 - ## ==和equals方法的区别
   
   在Object类型中，equals()相当于==，比较的是地址，是否为同一对象。
